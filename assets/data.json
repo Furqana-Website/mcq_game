@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "type": "text_text",
+      "audio": "https://example.com/audio.mp3",
+      "question": "I have _______terrible tooth ache",
+      "level": 1,
+      "options": [
+        "ABC",
+        "an",
+        "a",
+        "the"
+      ],
+      "correct_answer":"a"
+    },
+    {
+      "type": "text_image",
+      "audio": "https://example.com/audio.mp3",
+      "question": "I have _______terrible tooth ache",
+      "level": 2,
+      "options": [
+        "assets/cow.png",
+        "assets/lion.png",
+        "assets/horse.png",
+        "assets/lion.png"
+      ],
+      "correct_answer":"assets/horse.png"
+    }
+  ]
+}
